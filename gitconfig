@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tojolalaina@gmail.com
+	name = Tojo Rakotoarison
